@@ -4,7 +4,7 @@ This is by no means an optimized or high quality fractal rendering app - rather 
 texture and presenting it.
 
 controls:
-left, right, up, down - move the focus
+left, right, up, down - move the focus  
 enter - zoom in
 
 todo: employ some techniques for increasing the rendering speed.
